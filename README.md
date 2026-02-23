@@ -54,7 +54,5 @@ The dataset is used to analyze risk patterns and understand factors affecting cr
 - Default vs Non-default comparison
 - Feature relationship analysis
 
----
 
-## 📂 Project Structure
 
